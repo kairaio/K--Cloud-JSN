@@ -25,6 +25,7 @@ Our mission is to create scalable, reliable, and innovative systems that help bu
 
 # 🌐 Ecosystem
 
+
 ```mermaid
 mindmap
  root((☁️ K-Cloud JSN))
@@ -54,6 +55,7 @@ mindmap
         Release Management
         Infrastructure Provisioning
 ```
+
 
 ---
 
