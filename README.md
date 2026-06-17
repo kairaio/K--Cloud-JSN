@@ -17,18 +17,18 @@
 
 # 🌍 About K-Cloud JSN
 
-K-Cloud JSN adalah ekosistem teknologi yang berfokus pada pengembangan solusi digital, cloud platform, AI automation, business tools, dan berbagai inovasi teknologi untuk membantu individu maupun bisnis berkembang di era digital.
+K-Cloud JSN is a technology ecosystem focused on building digital solutions, cloud platforms, AI automation, business tools, and innovative technologies that empower individuals, startups, and businesses to thrive in the digital era.
 
 ### 🎯 Vision
 
-Menjadi ekosistem teknologi yang menghubungkan bisnis, manusia, dan inovasi tanpa batas.
+To become a technology ecosystem that connects people, businesses, and innovation without limits.
 
 ### 🚀 Mission
 
-- Mengembangkan platform digital modern.
-- Membantu bisnis tumbuh melalui otomatisasi.
-- Membangun solusi AI yang mudah digunakan.
-- Menciptakan ekosistem teknologi yang terintegrasi.
+- Develop modern digital platforms.
+- Accelerate business growth through automation.
+- Build accessible and practical AI solutions.
+- Create an integrated technology ecosystem.
 
 ---
 
@@ -52,11 +52,11 @@ Building technology, communities, and opportunities for the future.
 
 | ☁️ Cloud Technology | 🤖 AI Automation | 💬 Bot Development |
 |:---:|:---:|:---:|
-| Cloud Infrastructure | AI Solutions | WhatsApp & Telegram |
+| Cloud Infrastructure | Intelligent Solutions | WhatsApp & Telegram Platforms |
 
 | 📈 Business Solutions | 🌐 Digital Communities | 🚀 Startup Innovation |
 |:---:|:---:|:---:|
-| CRM & Automation | Community Ecosystem | Future Products |
+| CRM & Automation | Community Ecosystems | Future Digital Products |
 
 </div>
 
@@ -136,7 +136,7 @@ E --> H
 F --> H
 G --> H
 
-H --> I[Analytics]
+H --> I[Business Analytics]
 ```
 
 ---
@@ -154,10 +154,10 @@ H --> I[Analytics]
 | Category | Technologies |
 |----------|-------------|
 | ⚙️ Backend | Python • Node.js • FastAPI |
-| 🎨 Frontend | React • Next.js • TailwindCSS |
+| 🎨 Frontend | React • Next.js • Tailwind CSS |
 | 🗄 Database | PostgreSQL • MongoDB • Redis |
-| ☁️ Infrastructure | Docker • Linux • Cloud |
-| 🤖 Automation | WhatsApp API • Telegram API • AI |
+| ☁️ Infrastructure | Docker • Linux • Cloud Services |
+| 🤖 Automation | WhatsApp API • Telegram API • AI Integration |
 
 ---
 
@@ -184,7 +184,7 @@ H --> I[Analytics]
 └── 🟣 Enterprise Expansion
     ├── Analytics Platform
     ├── Team Workspace
-    ├── Multi Channel Automation
+    ├── Multi-Channel Automation
     └── Enterprise Suite
 ```
 
@@ -200,7 +200,7 @@ H --> I[Analytics]
 
 <div align="center">
 
-| Project | Type | Progress |
+| Project | Category | Progress |
 |----------|----------|----------|
 | 🤖 CloudHelp Core | SaaS Platform | ████████░░ 80% |
 | 💬 CloudHelp WhatsApp | Automation | ██████░░░░ 60% |
@@ -233,14 +233,28 @@ H --> I[Analytics]
 
 # 🤝 Open Collaboration
 
-Kami terbuka untuk berkolaborasi dengan:
+We welcome collaboration with:
 
-- 💻 Developers
+- 💻 Software Developers
 - 🎨 UI/UX Designers
 - 📱 Digital Marketers
 - 🤖 AI Engineers
 - 🚀 Startup Builders
 - 🌍 Community Leaders
+
+---
+
+# 💡 Our Values
+
+✨ Innovation
+
+🤝 Collaboration
+
+🚀 Growth
+
+🌍 Impact
+
+🔒 Reliability
 
 ---
 
